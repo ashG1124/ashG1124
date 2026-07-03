@@ -66,8 +66,20 @@
   </a>
 </p>
 
----
+<br />
 
+<p align="center"><strong>📊 GitHub Stats 📊</strong></p>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=39FF14&text_color=E6FFE6&icon_color=39FF14&border_color=2DD36F&hide_border=false"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=39FF14&text_color=E6FFE6&border_color=2DD36F&hide_border=false"
+  />
+</p>
 
 <br />
 
