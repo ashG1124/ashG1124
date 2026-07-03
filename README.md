@@ -27,14 +27,14 @@
 
 <br />
 
-<p align="center"><strong>📚 Studying 📚</strong></p>
+<p align="center"><strong>📚 Learning 📚</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <br />
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-4B5563?style=for-the-badge&logo=aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
@@ -64,4 +64,15 @@
   <a href="mailto:rnbashb1124@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-rnbashb1124%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
+</p>
+
+---
+
+
+<br />
+
+<p align="center"><strong>🌱 3D Contributions 🌱</strong></p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" />
 </p>
