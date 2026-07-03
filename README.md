@@ -1,3 +1,16 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:F4FFF7,30:C8FFD7,65:8CFF9F,100:39FF14&text=Ash%27s%20Github&fontColor=031F14&fontSize=68&fontAlign=50&fontAlignY=45&stroke=FFFFFF&strokeWidth=1&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+React+Native;Learning+Java%2C+Spring%2C+Nest.js;Welcome+to+Ash's+Github"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
 <p align="center"><strong>🛠️ Tech Stack 🛠️</strong></p>
 
 <p align="center">
@@ -21,7 +34,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
