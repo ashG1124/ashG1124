@@ -58,13 +58,15 @@
 <p align="center"><strong>📬 Connect 📬</strong></p>
 
 <p align="center">
-  <a href="https://YOUR_TISTORY.tistory.com">
+  <a href="https://asht1214.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white&labelColor=FF5A4A" />
   </a>
-  <a href="mailto:rnbashb1124@gmail.com">
+  <a href="rnbashb1124@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-rnbashb1124%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
 </p>
+
+<br />
 
 <br />
 
@@ -73,11 +75,11 @@
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=39FF14&text_color=E6FFE6&icon_color=39FF14&border_color=2DD36F&hide_border=false"
+    src="https://github-stats-extended.vercel.app/api?username=ashG1124&show_icons=true&theme=transparent&title_color=39FF14&text_color=E6FFE6&icon_color=39FF14&border_color=2DD36F&hide_border=false&rank_icon=github"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=39FF14&text_color=E6FFE6&border_color=2DD36F&hide_border=false"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashG1124&layout=compact&theme=transparent&title_color=39FF14&text_color=E6FFE6&border_color=2DD36F&hide_border=false"
   />
 </p>
 
